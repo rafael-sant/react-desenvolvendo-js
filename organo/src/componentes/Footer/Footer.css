@@ -1,0 +1,19 @@
+.footer {
+  background: #6278f7;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px 0;
+  color: #fff;
+}
+
+.footer .social-icons img {
+  max-width: 18px;
+  margin-left: 20px;
+}
+
+.footer .logo img {
+  max-width: 125px;
+  width: 100%;
+  display: block;
+}
